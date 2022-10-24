@@ -1,0 +1,42 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+;
+(;AW[cn][dn][ao][bo][do][cp][dp][dq][cs]AB[bm][cm][dm][bn][en][eo][ap][ep][eq][ar][dr][fr][as][bs][ds]
+;B[]C[Level 1: White to play]
+;W[bq]
+;B[cr]
+;W[aq])
+(;AW[dq][eq][fq][hq][cr][er][hr][ds]AB[dp][ep][fp][hp][ip][bq][cq][br][ir][jr]C[Level 2: Black to play]
+;B[fs]
+;W[gr]
+;B[bs])
+(;AW[an][bn][cn][do][dp][aq][bq][dq][dr]AB[am][bm][cm][dm][dn][eo][ap][ep][eq][er][bs][cs][ds]C[Level 3: Black to play]
+;B[bo]
+;W[co]
+;B[bp]
+;W[cr]
+;B[cp])
+(;AW[dp][ep][cq][fq][gq][hq][br][cr][ds]AB[cn][en][bp][cp][fp][gp][hp][ip][bq][dq][iq][dr][ir]C[Level 4: Black to play]
+;B[bs]
+;W[ar]
+(;B[cs]
+;W[as]
+;B[cs]
+;W[er]
+;B[es]
+;W[eq]
+;B[fs])
+(;B[es]
+;W[er]
+;B[cs]
+;W[eq]
+;B[fs]))
+(;AW[dp][ep][fp][gp][hp][cr][dr][gr][hr][ir]AB[do][eo][fo][go][ho][io][cp][ip][bq][cq][gq][jq][br][jr][is][js]C[Level 5: Black to play]
+;B[hq]
+;W[iq]
+;B[er]
+;W[dq]
+;B[hs]
+;W[fr]
+;B[fs]))

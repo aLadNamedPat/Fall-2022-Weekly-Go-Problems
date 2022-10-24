@@ -1,0 +1,27 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+;AW[la][pa][lb][nb][ob][pb][lc][mc][oc][od][pd][qd]AB[ka][kb][qb][rb][kc][nc][rc][kd][ld][md][nd][rd][oe][pe][qe]C[Level 1]
+(;B[na]
+;W[mb]
+;B[qc]LB[na:1][mb:2][qc:3])
+(;AE[ka][la][pa][kb][lb][nb][ob][pb][qb][rb][kc][lc][mc][nc][oc][rc][kd][ld][md][nd][od][pd][qd][rd][oe][pe][qe]AW[cn][dn][en][fo][go][bp][ep][bq][eq][hq][dr][er][fr]AB[do][eo][dp][fp][gp][hp][ip][cq][dq][cr][ds]C[Level 2]
+;B[gr]
+;W[gq]
+;B[hr]LB[gq:2][gr:1][hr:3])
+(;AE[ka][la][pa][kb][lb][nb][ob][pb][qb][rb][kc][lc][mc][nc][oc][rc][kd][ld][md][nd][od][pd][qd][rd][oe][pe][qe]AW[ao][bo][co][do][ap][dp][ep][bq][eq][fr]AB[bl][bn][cn][dn][en][fo][bp][cp][fp][cq][dq][fq][gr][hr][cs]C[Level 3]
+;B[dr]
+;W[er]
+;B[br]
+;W[ar]
+;B[aq]LB[aq:5][ar:4][br:3][dr:1][er:2])
+(;AE[ka][la][pa][kb][lb][nb][ob][pb][qb][rb][kc][lc][mc][nc][oc][rc][kd][ld][md][nd][od][pd][qd][rd][oe][pe][qe]AW[cp][ep][fp][bq][cq][fq][fr][gr][bs]AB[en][fn][bo][co][do][go][gp][eq][gq][br][er][hr][ir][gs]C[Level 4]
+;B[cr]
+;W[ar]
+;B[dr]LB[ar:2][cr:1][dr:3])
+(;AE[ka][la][pa][kb][lb][nb][ob][pb][qb][rb][kc][lc][mc][nc][oc][rc][kd][ld][md][nd][od][pd][qd][rd][oe][pe][qe]AW[an][bn][cn][dn][do][dp][eq][ar][er][es]AB[co][ap][cp][dq][dr][bs]C[Level 5]
+;B[br]
+;W[ds]
+;B[bp]
+;W[aq]
+;B[cs]LB[bp:3][aq:4][br:1][cs:5][ds:2]))
