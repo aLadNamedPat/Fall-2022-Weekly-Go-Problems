@@ -1,0 +1,47 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]C[Week 8 Solutions]
+;B[]
+(;AW[cp][dp][aq][dq][ar][dr][bs][cs]AB[ao][bo][co][do][eo][ep][eq][br][er][gr]
+;W[]C[Level 1 Sol]
+;B[bq]
+;W[bp]
+;B[ap]LB[ap:3][bp:2][bq:1])
+(;AW[ep][cq][fq][gq][hq][cr][er][hr][cs][hs]AB[do][eo][cp][fp][gp][hp][ip][bq][iq][br][gr][ir][bs][es][fs][is]
+;W[]C[Level 2 Sol]
+;B[dq]
+;W[dr]
+;B[fr]
+;W[eq]
+;B[dp]LB[dp:5][dq:1][eq:4][dr:2][fr:3])
+(;AW[cq][eq][gq][hq][cr][er][fr][ir][cs][hs]AB[cp][dp][ep][fp][ip][bq][fq][iq][kq][br][gr][jr][bs][fs]
+;W[]C[Level 3 Sol]
+;B[es]
+;W[gs]
+;B[dq]
+;W[ds]
+;B[dr]LB[dq:3][dr:5][ds:4][es:1][gs:2])
+(;AW[bm][dm][dn][eo][fo][ep][gp][bq][cq][eq][fq][gq][br][dr][gr][fs]AB[en][fn][gn][do][go][io][ap][bp][cp][dp][hp][aq][dq][hq][er][hr][gs][hs]
+;W[]C[Level 4 Sol]
+;B[cr]
+;W[cs]
+;B[bs]
+;W[es]
+;B[ar]LB[ar:5][cr:1][bs:3][cs:2][es:4]C[Result: Ko])
+(;AW[cp][fp][gp][cq][eq][gq][cr][gr][cs]AB[bn][en][co][do][go][ho][bp][hp][bq][fq][hq][br][dr][hr][bs][hs]
+;W[]C[Level 5 Sol]
+;B[fr]
+;W[fs]
+;B[er]
+;W[dq]
+;B[gs]
+;W[ds]
+;B[es]
+;W[fs]
+;B[fr]
+;W[er]
+;B[es]LB[er:3][fr:1][ds:4][es:5][fs:2]C[Result: Ko
+Move 6 = Move 2
+Move 7 = Move 1
+Move 8 = Move 3
+Move 9 = Move 5]))
